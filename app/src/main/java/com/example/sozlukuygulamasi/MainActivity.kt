@@ -21,7 +21,7 @@ class MainActivity : AppCompatActivity(), SearchView.OnQueryTextListener {
 
         veritabaniKopyala()
 
-        toolbar.title = "English / Turkish 100 words"
+        toolbar.title = "English / Turkish 40 words"
         setSupportActionBar(toolbar)
 
         rv.setHasFixedSize(true)
